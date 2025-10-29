@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**suhasm30/suhasm30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 Software Developer<br><br>BE CSE
 
